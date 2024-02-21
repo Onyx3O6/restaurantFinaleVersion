@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "RestaurantV3.Client",
   "resources": {
-    "hash": "sha256-EpldWSajy8Tbd+tyX3RqQKk6DF47W2YZjcV4IPjNtjQ=",
+    "hash": "sha256-0o6v3t/3VkIugqX/7aVuycOG1Om46nEcqEt2/yFlULc=",
     "jsModuleNative": {
-      "dotnet.native.8.0.0.144fzhlryk.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
+      "dotnet.native.8.0.0.duc5t0gcgn.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.0.g8e51yyzu8.js": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw="
+      "dotnet.runtime.8.0.0.yqje79l964.js": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw="
     },
     "wasmNative": {
       "dotnet.native.wasm": "sha256-Vr6ZXKoP77zgabrMIxQ1GbOkrxfx5XGqHO0odLhUIMY="
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "RestaurantV3.Client.wasm": "sha256-xEUwei5WN2YvODSMp6nOoJoRnPG8dlmg6w0z76ou3AY="
+      "RestaurantV3.Client.wasm": "sha256-LRoSRIr4bD3VPXtbfEHNY0lAL72M4x/N3LVVTcUMetw="
     },
     "pdb": {
-      "RestaurantV3.Client.pdb": "sha256-0DM//qQAOY1FNYD7Kb1YmIJ1ZYwrQq34endBwiNCRK8="
+      "RestaurantV3.Client.pdb": "sha256-zo/oFF8iOpAp+GefnEkOHgvJOO+AJsQ5hWMnXs+rgjk="
     }
   },
   "cacheBootResources": true,

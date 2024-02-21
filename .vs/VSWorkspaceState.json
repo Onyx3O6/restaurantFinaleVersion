@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RestaurantV3",
+    "\\RestaurantV3.Client",
+    "\\RestaurantV3.Client\\bin",
+    "\\RestaurantV3.Client\\Pages",
+    "\\RestaurantV3\\Components",
+    "\\RestaurantV3\\Components\\Layout",
+    "\\RestaurantV3\\Components\\Pages",
+    "\\RestaurantV3\\wwwroot"
+  ],
+  "SelectedNode": "\\RestaurantV3.Client\\Pages\\Counter.razor",
+  "PreviewInSolutionExplorer": false
+}
