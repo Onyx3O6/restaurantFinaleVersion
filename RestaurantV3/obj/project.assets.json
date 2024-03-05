@@ -1329,19 +1329,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tibou\\.nuget\\packages\\": {}
+    "C:\\Users\\Utilisateur\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\RestaurantV3.csproj",
+      "projectUniqueName": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\RestaurantV3.csproj",
       "projectName": "RestaurantV3",
-      "projectPath": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\RestaurantV3.csproj",
-      "packagesPath": "C:\\Users\\tibou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\obj\\",
+      "projectPath": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\RestaurantV3.csproj",
+      "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\tibou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Utilisateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1349,14 +1354,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3.Client\\RestaurantV3.Client.csproj": {
-              "projectPath": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3.Client\\RestaurantV3.Client.csproj"
+            "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3.Client\\RestaurantV3.Client.csproj": {
+              "projectPath": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3.Client\\RestaurantV3.Client.csproj"
             }
           }
         }

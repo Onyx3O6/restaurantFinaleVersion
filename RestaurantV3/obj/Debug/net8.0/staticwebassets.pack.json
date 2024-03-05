@@ -1,24 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantV3.bundle.scp.css",
+      "Id": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantV3.bundle.scp.css",
       "PackagePath": "staticwebassets\\RestaurantV3.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\tibou\\Desktop\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Utilisateur\\OneDrive\\Bureau\\Project\\Perso\\restaurantFinaleVersion\\RestaurantV3\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantV3.Microsoft.AspNetCore.StaticWebAssets.props",
